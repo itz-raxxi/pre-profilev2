@@ -25,7 +25,7 @@ let scale = 1;
 let isDragging = false;
 let startX, startY;
 const minScale = 0.1; // Minimum zoom level
-const maxScale = 5;   // Maximum zoom level
+const maxScale = 10;   // Maximum zoom level
 let initialDistance = 0;
 
 // File input change event
