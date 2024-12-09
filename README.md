@@ -1,6 +1,6 @@
 `ನಾರಾವಿ ಮಹಾ ಚಂಡಿಕಾ ಯಾಗ 2024`
 
-https://bit.ly/Chandikayaga_profile
+https://bit.ly/Chandikayaga_profile \n
 https://bit.ly/Chandikayaga_profile
 https://bit.ly/Chandikayaga_profile
 https://bit.ly/Chandikayaga_profile
